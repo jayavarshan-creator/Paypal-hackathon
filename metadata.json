@@ -2,5 +2,7 @@
   "name": "PayIntellect AI - PayPal Sandbox & Commerce Intelligence",
   "description": "Autonomous AI-powered commerce and payment intelligence platform integrating PayPal Sandbox Orders v2, Dynamic AI Negotiation, Smart Invoicing, Dispute Settlement, and Webhook Telemetry.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
